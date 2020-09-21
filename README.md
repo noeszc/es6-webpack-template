@@ -1,0 +1,1 @@
+## Template for ES6 + Webpack
